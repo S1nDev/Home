@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S1nDev
-- 👀 I’m interested in Full Stack Development, AI engineering, and Cybernetics.
-- 🌱 I’m currently learning Python, JavaScipt, QML, CSS/HTML
+- 👀 I’m interested in Full Stack Development, AI engineering, and Data Science.
+- 🌱 I’m currently learning Python, JavaScipt, Swift, and C++.
 - 💞️ I’m looking to collaborate on Front-End Development
 - 📫 How to reach me: scottacommunications@gmail.com or 941-216-9002
 
